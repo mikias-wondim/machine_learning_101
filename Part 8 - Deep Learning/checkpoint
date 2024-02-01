@@ -1,0 +1,2 @@
+model_checkpoint_path: "first_try.txt"
+all_model_checkpoint_paths: "first_try.txt"
